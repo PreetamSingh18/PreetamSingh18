@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
 
-- 🔭 I’m currently working on **improving my competitive programming skills**
+- 🔭 I’m currently working on **improving my Competitive Programming Skills**
 
 - 📫 How to reach me **spreetam2001@gmail.com**
 

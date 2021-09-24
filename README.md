@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetam Singh</h1>
+
 - 🎓 I'm a 3rd year student at  **IES, IPS Academy Indore**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms.**

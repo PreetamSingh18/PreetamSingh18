@@ -2,6 +2,8 @@
 
 - 🎓 I'm a 3rd year student at  **IES, IPS Academy Indore**
 
+- 👨‍💻 All of my projects are available at [https://bit.ly/3BGO4Kp](https://bit.ly/3BGO4Kp)
+
 - 🌱 I’m currently learning **Data Structure and Algorithms.**
 
 - 🔭 I’m currently working on **improving my Competitive Programming Skills**

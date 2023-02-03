@@ -18,11 +18,11 @@
 
 ## Coding Profile:
 
-[![Leetcode Badge](https://img.shields.io/badge/-Preetam_Singh-black?style=plastic&logo=Leetcode&link=https://leetcode.com/preetam1812/)](https://leetcode.com/preetam1812/)[![GFG Badge](https://img.shields.io/badge/-Preetam_Singh-black?style=plastic&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/preetamsingh18/)](https://auth.geeksforgeeks.org/user/preetamsingh18/)
+[![Leetcode Badge](https://img.shields.io/badge/-Preetam_Singh-black?style=plastic&logo=Leetcode&link=https://leetcode.com/preetam1812/)](https://leetcode.com/preetamsingh18/)[![GFG Badge](https://img.shields.io/badge/-Preetam_Singh-black?style=plastic&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/preetamsingh18/)](https://auth.geeksforgeeks.org/user/preetamsingh18/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Preetam_Singh-black?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/preetamsingh18/)](https://www.hackerrank.com/preetamsingh18/)
 
 ## Leetcode card:
-![LeetCode Stats](https://leetcard.jacoblin.cool/preetam1812?theme=unicorn&font=Electrolize&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/preetamsingh18?theme=unicorn&font=Electrolize&ext=contest)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)

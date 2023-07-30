@@ -4,7 +4,7 @@
 
 
 ## 💫 About Me:
-🎓 I'm a final student at IES, IPS Academy Indore
+🎓 B.Tech (CSE) Graduate from IES, IPS Academy Indore
 
 👨‍💻 All of my projects are available at https://bit.ly/3BGO4Kp
 
